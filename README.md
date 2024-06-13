@@ -1,8 +1,8 @@
 <!---Start--->
 # Crate-O
-
+<!---End--->
 Status: Crate-O is now usable in Chromium-based browsers (Chrome, and Microsoft Edge work) - you can try it [here](https://language-research-technology.github.io/crate-o/), please let report bugs using Github issues in this repository.
-
+<!---Start--->
 Crate-O is a browser-based editor for  Research Object Crates  [(RO-Crate)](https://www.researchobject.org/ro-crate/). RO-Crate is a flexible, developer-friendly approach to linked-data description and packaging. Crate-O is designed to:
 - describe files on a user’s computer and to add contextual information about those files
 - optionally skip the files and describe abstract contextual entities such as in a Cultural Collection or an encyclopaedia
